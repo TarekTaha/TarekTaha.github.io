@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Tarek TAha"
+title                    : "Dr. Tarek Taha"
 title_separator          : "-"
 name                     : &name "Tarek Taha"
 description              : &description "Technical Team Lead"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tataha/"
   orcid            : "http://orcid.org/0000-0001-8267-1681"
   pinterest        :
   soundcloud       :
