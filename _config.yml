@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Tarek TAha"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tarek Taha"
+description              : &description "Technical Team Lead"
 url                      : https://tarektaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tarektaha/tarektaha.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.ae/citations?user=0qKYbyAAAAAJ&hl=en"
+  email            : "tarek@tarektaha.com"
+  researchgate     : "https://www.researchgate.net/profile/Tarek_Taha2"
   uri              :
   bitbucket        :
   codepen          :
